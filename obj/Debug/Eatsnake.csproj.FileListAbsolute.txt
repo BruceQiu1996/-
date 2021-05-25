@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Eatsnake\Eatsnake\bin\Debug\Eatsnake.exe.config
+C:\Users\Administrator\source\repos\Eatsnake\Eatsnake\bin\Debug\Eatsnake.exe
+C:\Users\Administrator\source\repos\Eatsnake\Eatsnake\bin\Debug\Eatsnake.pdb
+C:\Users\Administrator\source\repos\Eatsnake\Eatsnake\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\Eatsnake\Eatsnake\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\Eatsnake\Eatsnake\obj\Debug\Eatsnake_MarkupCompile.cache
+C:\Users\Administrator\source\repos\Eatsnake\Eatsnake\obj\Debug\Eatsnake_MarkupCompile.lref
+C:\Users\Administrator\source\repos\Eatsnake\Eatsnake\obj\Debug\MainWindow.baml
+C:\Users\Administrator\source\repos\Eatsnake\Eatsnake\obj\Debug\Eatsnake.g.resources
+C:\Users\Administrator\source\repos\Eatsnake\Eatsnake\obj\Debug\Eatsnake.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Eatsnake\Eatsnake\obj\Debug\Eatsnake.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Eatsnake\Eatsnake\obj\Debug\Eatsnake.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Eatsnake\Eatsnake\obj\Debug\Eatsnake.exe
+C:\Users\Administrator\source\repos\Eatsnake\Eatsnake\obj\Debug\Eatsnake.pdb
