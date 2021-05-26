@@ -170,7 +170,7 @@ namespace Eatsnake
             {
                 this.score += 10000 / (int)this.CurrentLevel;
                 this.count.Text = $"分数:{score}";
-
+                this.level.Text = $"难度:{this.CurrentLevel}";
                 if (this.score >= 300)
                 {
                     this.CurrentLevel = Level.High;
@@ -192,21 +192,30 @@ namespace Eatsnake
         {
             if (e.Key == System.Windows.Input.Key.Up) 
             {
+                if (this.CurrentDirection == Direction.Bottom)
+                    return;
+
                 this.CurrentDirection = Direction.Top;
             }
 
             else if (e.Key == System.Windows.Input.Key.Down)
             {
+                if (this.CurrentDirection == Direction.Top)
+                    return;
                 this.CurrentDirection = Direction.Bottom;
             }
 
             else if (e.Key == System.Windows.Input.Key.Left)
             {
+                if (this.CurrentDirection == Direction.Right)
+                    return;
                 this.CurrentDirection = Direction.Left;
             }
 
             else if (e.Key == System.Windows.Input.Key.Right)
             {
+                if (this.CurrentDirection == Direction.Left)
+                    return;
                 this.CurrentDirection = Direction.Right;
             }
 
@@ -229,7 +238,7 @@ namespace Eatsnake
     public enum Level
     {
         Low = 500,
-        Mid = 200,
-        High = 100,
+        Mid = 250,
+        High = 150,
     }
 }
